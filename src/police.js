@@ -1,6 +1,6 @@
 const Masto = require("mastodon-api");
 const fs = require("fs");
-const config = JSON.parse(fs.readFileSync("./config.json", "utf8"));
+const config = JSON.parse(fs.readFileSync("../config.json", "utf8"));
 
 const M = new Masto({
     access_token: config.access_token,

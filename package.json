@@ -1,0 +1,28 @@
+{
+  "name": "mastodon-police",
+  "version": "0.0.1",
+  "description": "",
+  "main": "police.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noraworld/mastodon-police.git"
+  },
+  "keywords": [
+    "mastodon",
+    "police",
+    "mastodon-police",
+    "t.co"
+  ],
+  "author": "noraworld",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noraworld/mastodon-police/issues"
+  },
+  "homepage": "https://github.com/noraworld/mastodon-police#readme",
+  "dependencies": {
+    "mastodon-api": "^1.3.0"
+  }
+}
